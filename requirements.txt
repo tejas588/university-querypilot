@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+groq
+mysql-connector-python
+python-dotenv
+sqlglot
+langgraph
